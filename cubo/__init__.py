@@ -1,4 +1,4 @@
-from .my_lib import *
+from .app import *
 
 __author__ = 'Marcelo Alonso'
 __email__ = 'marcelovta@al.insper.edu.br'

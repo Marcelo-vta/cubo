@@ -24,7 +24,7 @@ def run():
     Probably run the main function of the module
     """
     print("Hello world!")
-    cubo.my_function()
+    cubo.aps4()
     script_path = Path(os.path.abspath(__file__))
     parent_path = script_path.parent
     print("Script path:", script_path)
